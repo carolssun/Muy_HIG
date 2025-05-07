@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Muy%20HIG%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=recreating%20interfaces%20with%20SwiftUI%20!&descAlignY=60&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=240&section=header&text=Muy%20HIG%20&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=recreating%20interfaces%20with%20SwiftUI%20!&descAlignY=60&descSize=18">
 
 ## 🔍 Sobre o Projeto
 
