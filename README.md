@@ -21,7 +21,7 @@ Focamos exclusivamente no aspecto **visual da aplicação**, sem lógica de nave
 Este projeto foi desenvolvido em parceria por:
 
 * [Carolina Sun (@carolssun)](https://www.linkedin.com/carolinasun)
-* [Matheus Motta (@outroUsuario)](https://www.linkedin.com/in/outroUsuario)
+* [Matheus Motta (@matheusmotta16)](https://www.linkedin.com/in/matheus-motta-5a8539349/)
 
 ## 📸 Screenshots e comparações
 
